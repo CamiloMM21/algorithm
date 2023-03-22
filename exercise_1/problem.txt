@@ -1,0 +1,5 @@
+El problema del viajante de comercio (en inglés, Traveling Salesman Problem, TSP) es un problema NP-completo que consiste en encontrar el camino más corto que pasa por todos los puntos de un conjunto dado de ciudades y vuelve al punto de partida.
+
+El problema se puede plantear de la siguiente manera: se tiene un conjunto de n ciudades y se debe encontrar el camino más corto que pase por todas ellas exactamente una vez y vuelva al punto de partida. Cada ciudad se representa como un punto en un plano y se conoce la distancia entre cada par de ciudades.
+
+Por ejemplo, si tenemos las ciudades A, B, C y D, el problema del TSP consiste en encontrar el camino más corto que pase por todas ellas y vuelva a la ciudad de origen
