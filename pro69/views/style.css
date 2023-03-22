@@ -1,0 +1,8 @@
+form .container{
+    display: flex;
+    background: rgb(80, 76, 76);
+    border: 1px solid green;
+    padding: 10px; /* establecer el relleno interior del contenedor*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
